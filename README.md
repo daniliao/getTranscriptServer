@@ -5,7 +5,7 @@
 
 ### -------Daniel's docs for server START------------
 
-# Run flask server to get transcript
+# Run flask server to get transcript in JSON form
 
 
 ## 1. Run below commend in the terminal
