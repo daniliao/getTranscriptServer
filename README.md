@@ -3,8 +3,9 @@
   ✨ YouTube Transcript API ✨
 </h1>
 
-# Run flask server to get transcript
+### -------Daniel's docs for server START------------
 
+# Run flask server to get transcript
 
 
 ## 1. Run below commend in the terminal
@@ -14,12 +15,12 @@ python server.py
 ```
 
 
-## 2. Paste http://127.0.0.1:8000 in your browser
+## 2. Paste http://127.0.0.1:8000 into your browser
 
 <img width="837" alt="Screenshot 2025-02-12 at 2 11 25 PM" src="https://github.com/user-attachments/assets/a0784f73-4024-4d49-a143-32d7f9559982" />
 
 
-## 3.Edit your http://127.0.0.1:8000 into http://127.0.0.1:8000/transcript
+## 3.Edit your http://127.0.0.1:8000 URL in browser into http://127.0.0.1:8000/transcript
 
 ### -------Daniel's docs for server END------------
 
