@@ -5,9 +5,9 @@
 
 # Run flask server to get transcript
 
-## Run below commend in the terminal
-
 1.
+
+## Run below commend in the terminal
 
 ```
 python server.py
