@@ -3,6 +3,26 @@
   ✨ YouTube Transcript API ✨
 </h1>
 
+#Run flask server to get transcript
+
+1.
+
+```
+python server.py
+```
+
+2.
+
+##Open http://127.0.0.1:8000 in your browser
+
+<img width="837" alt="Screenshot 2025-02-12 at 2 11 25 PM" src="https://github.com/user-attachments/assets/a0784f73-4024-4d49-a143-32d7f9559982" />
+
+3.
+
+##Edit your http://127.0.0.1:8000 into http://127.0.0.1:8000/transcript
+
+
+
 <p align="center">
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BAENLEW8VUJ6G&source=url">
     <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate">
