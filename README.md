@@ -21,7 +21,7 @@ python server.py
 
 ## 3.Edit your http://127.0.0.1:8000 into http://127.0.0.1:8000/transcript
 
-### -------Daniel's docs for server------------
+### -------Daniel's docs for server END------------
 
 <p align="center">
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BAENLEW8VUJ6G&source=url">
