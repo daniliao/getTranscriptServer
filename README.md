@@ -5,9 +5,7 @@
 
 ### -------Daniel's docs for server START------------
 
-[.. image:: https://img.youtube.com/vi/uEU61wVBx5Y/maxresdefault.jpg
-    :alt: IMAGE ALT TEXT HERE
-    :target: https://www.youtube.com/watch?v=uEU61wVBx5Y](https://youtu.be/uEU61wVBx5Y)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uEU61wVBx5Y?si=Aj26KapG-5RYdgW2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 # Run flask server to get transcript in JSON form
