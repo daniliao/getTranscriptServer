@@ -5,7 +5,8 @@
 
 ### -------Daniel's docs for server START------------
 
-[![YouTube](http://i.ytimg.com/vi/uEU61wVBx5Y/hqdefault.jpg)](https://www.youtube.com/watch?v=uEU61wVBx5Y)
+[![YouTube](![Untitled design-16](https://github.com/user-attachments/assets/82959b79-8825-4549-b8be-013dc68dd317)
+)](https://www.youtube.com/watch?v=uEU61wVBx5Y)
 
 
 # Run flask server to get transcript in JSON form
