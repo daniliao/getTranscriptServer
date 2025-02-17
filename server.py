@@ -5,9 +5,7 @@ app = Flask(__name__)
 
 @app.route('/transcript', methods=['GET'])
 def get_transcript():
-    video_id = "eKJmPC_T0dw"
-    # hard code video id for testing, use below code instead of request
-    # video_id = request.args.get('video_id')
+    video_id = request.args.get('video_id')
     if not video_id:
         return jsonify({'error': 'No video_id provided'}), 400
     try:
